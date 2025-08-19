@@ -1,0 +1,66 @@
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+
+# Dependency directories
+node_modules/
+
+# Next.js build output
+.next/
+out/
+build/
+
+# Temporary and output files
+tmp/
+*.log
+*.tmp
+
+# Video and audio output files
+public/videos/*.mp4
+public/videos/*.wav
+public/videos/*.avi
+public/videos/*.mkv
+
+# Temporary directories
+/tmp/
+/temp/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.installed.cfg
+*.egg
+
+# UV / Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Miscellaneous
+.cache/
+.parcel-cache/
+.turbo/
