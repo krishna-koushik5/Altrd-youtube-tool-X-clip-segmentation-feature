@@ -1,0 +1,622 @@
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://172.19.0.2:3000
+
+ ✓ Starting...
+ ✓ Ready in 774ms
+Using ffmpeg at /usr/bin/ffmpeg
+Received transcribe request: {
+  youtubeUrl: "https://www.youtube.com/watch?v=8hHdxna5pAE",
+  startTime: 0,
+  endTime: 60,
+}
+Sending request to Gemini API...
+Received response from Gemini API.
+Generated 61 captions with adjusted timestamps.
+Sample timing: First caption starts at 00:00:00.000, clip starts at 0s
+Video generation request: {
+  title: "AI Startup Ideas that make you $$$",
+  credit: "gayatri.tech",
+  youtubeUrl: "https://www.youtube.com/watch?v=8hHdxna5pAE",
+  startTime: 0,
+  endTime: 60,
+  aspectRatio: "9:16",
+}
+Original captions: 61, Valid captions: 60
+Clip duration: 60s, Start offset: 0s
+Generating title image: AI Startup Ideas that make you $$$
+Attempting to load font: Inter-Medium
+Font Inter-Medium found locally and valid.
+Successfully registered font: Inter-Medium
+Generating credit image: gayatri.tech
+Attempting to load font: Inter-Medium
+Font Inter-Medium found locally and valid.
+Successfully registered font: Inter-Medium
+Generating caption images...
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Generated 60 caption images
+Starting video download using pytubefix in 1080p...
+Calling Python script: python3 /app/scripts/download_video.py "https://www.youtube.com/watch?v=8hHdxna5pAE" 0 60 "/tmp/video-gen-60738e15-0b4a-4dee-95cc-1ca41e490191/downloaded_video.mp4"
+Video generation request: {
+  title: "AI Startup Ideas that make you $$$",
+  credit: "gayatri.tech",
+  youtubeUrl: "https://www.youtube.com/watch?v=8hHdxna5pAE",
+  startTime: 0,
+  endTime: 60,
+  aspectRatio: "9:16",
+}
+Original captions: 61, Valid captions: 60
+Clip duration: 60s, Start offset: 0s
+Generating title image: AI Startup Ideas that make you $$$
+Attempting to load font: Inter-Medium
+Font Inter-Medium found locally and valid.
+Successfully registered font: Inter-Medium
+Generating credit image: gayatri.tech
+Attempting to load font: Inter-Medium
+Font Inter-Medium found locally and valid.
+Successfully registered font: Inter-Medium
+Generating caption images...
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Generated 60 caption images
+Starting video download using pytubefix in 1080p...
+Calling Python script: python3 /app/scripts/download_video.py "https://www.youtube.com/watch?v=8hHdxna5pAE" 0 60 "/tmp/video-gen-c2738213-a583-4a1e-ac84-ed16e5c1845d/downloaded_video.mp4"
+Video generation request: {
+  title: "AI Startup Ideas that make you $$$",
+  credit: "gayatri.tech",
+  youtubeUrl: "https://www.youtube.com/watch?v=8hHdxna5pAE",
+  startTime: 0,
+  endTime: 60,
+  aspectRatio: "9:16",
+}
+Original captions: 61, Valid captions: 60
+Clip duration: 60s, Start offset: 0s
+Generating title image: AI Startup Ideas that make you $$$
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Generating credit image: gayatri.tech
+Attempting to load font: Inter-Medium
+Font Inter-Medium found locally and valid.
+Successfully registered font: Inter-Medium
+Generating caption images...
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Attempting to load font: NotoSans-Regular
+Font NotoSans-Regular found locally and valid.
+Successfully registered font: NotoSans-Regular
+Generated 60 caption images
+Starting video download using pytubefix in 1080p...
+Calling Python script: python3 /app/scripts/download_video.py "https://www.youtube.com/watch?v=8hHdxna5pAE" 0 60 "/tmp/video-gen-f5888d49-60c2-4cec-8b64-6f583b9c147f/downloaded_video.mp4"

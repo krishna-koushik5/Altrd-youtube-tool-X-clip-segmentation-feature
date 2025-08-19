@@ -1,0 +1,26 @@
+version = 1
+revision = 2
+requires-python = ">=3.8"
+
+[[package]]
+name = "clip-edit-tool"
+version = "0.1.0"
+source = { virtual = "." }
+dependencies = [
+    { name = "pytubefix" },
+]
+
+[package.metadata]
+requires-dist = [{ name = "pytubefix", specifier = ">=9.2.0" }]
+
+[package.metadata.requires-dev]
+dev = []
+
+[[package]]
+name = "pytubefix"
+version = "9.3.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/a6/8a/2611bd7297e4b3ee1973c4d78e79f5a416cfebe89d4783f7da6f45c6b5d4/pytubefix-9.3.0.tar.gz", hash = "sha256:bcf7eeb4810f8710d31d6bce071475bd83fbd7ad6c978e32dda9a4802d0b0feb", size = 753289, upload-time = "2025-07-06T20:22:47.973Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/ac/9d/12e95c594beebe4fcbdddf97e5f571b2af7a2a0da34b6d5f560672d84f8c/pytubefix-9.3.0-py3-none-any.whl", hash = "sha256:97aeb82b4467e3bbf6703aafe618072559cc880dc66c94001b85e5718cf2cf17", size = 760193, upload-time = "2025-07-06T20:22:45.662Z" },
+]
